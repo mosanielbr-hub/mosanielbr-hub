@@ -10,7 +10,7 @@
 ---
 
 ### 🏆 Conquistas
-- 🥇 **Bi-campeão Estadual de Robótica** (FLL / OBR)
+- 🥇 **Bi-campeão Estadual de Robótica** (TJR / FIRA)
 - 🤖 Desenvolvedor de algoritmos de controle para seguidores de linha (PID + Velocidade Dinâmica)
 
 ---
